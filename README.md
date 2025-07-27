@@ -44,3 +44,11 @@ I'm Ajay Yadav — a passionate second-year Computer Science student exploring w
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajayyadav&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌐 Connect with Me
+
+- 🔗 [Portfolio](https://yadavajay.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajayyadav432)
+- 🐦 [Twitter / X](https://twitter.com/AjayYad52439701)
