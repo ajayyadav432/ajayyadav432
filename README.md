@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 
 
+[![Ajay's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ajayyadav&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
